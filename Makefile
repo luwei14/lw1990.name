@@ -1,8 +1,8 @@
 deploy:
 	cp -r static/ outputs/static
-	mkdir outputs/posts
+	mkdir -p outputs/posts
 	./genpage.sh posts
-	mkdir outputs/pages
+	mkdir -p outputs/pages
 	./genpage.sh pages
 	./genpage.sh index index.md outputs/index.html
 clean:
