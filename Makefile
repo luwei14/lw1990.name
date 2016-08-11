@@ -1,4 +1,5 @@
 deploy:
+	mkdir -p outputs/
 	cp -r static/ outputs/static
 	mkdir -p outputs/posts
 	./genpage.sh posts
