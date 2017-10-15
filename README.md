@@ -8,4 +8,4 @@ Personal Homepage
 
 ## Depoly
 
-`make deploy`
+`make`

@@ -1,0 +1,20 @@
+body {
+  margin-left: 5%;
+  background: white;
+  font-family: "Times New Roman", serif }
+div {
+  width: 7.68in
+}
+
+h2 {
+  background-color: #aaa;
+}
+
+a {
+  color: #cb4b16;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #238b45;
+}
