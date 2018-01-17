@@ -10,6 +10,15 @@ page_head(){
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>$title</title>
     <link rel="stylesheet" type="text/css" href="/static/lw1990.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61531951-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-61531951-2');
+    </script>
   </head>
   <body>
     <div>

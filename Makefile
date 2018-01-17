@@ -11,6 +11,9 @@ CP_R = cp -r
 deploy: output static pages home
 	cd deploy &&  git add . && git commit -m "update site:`date`" && git push origin master
 
+server: output static pages home
+	cd deploy && python -m SimpleHTTPServer
+
 output:
 	$(MKDIR_P) $(DEPLOY_DIR)/$(PAGES_DIR)
 	$(MKDIR_P) $(DEPLOY_DIR)/$(WRITINGS_DIR)

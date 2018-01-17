@@ -16,4 +16,7 @@ I’m a Ph.D. Studnet majoring in Cartography and Geographic Information Enginee
 
 ## More About Me
 * Resume: [English](pages/resume.en.html) &sdot; [中文](pages/resume.zh.html) &sdot; [PDF](static/resume.pdf)
-* Links: [ResearchGate](https://www.researchgate.net/profile/Wei_Lu77) &sdot; [GeoInsights](http://geoinsights.xyz) &sdot; [知乎](https://zhihu.com/people/luwei14) &sdot; [GitHub](https://github.com/luwei14)
+* Portfolios: [Writings](pages/writings.html) &sdot; [Projects](pages/projects.html)
+* Scholar: [ResearchGate](https://www.researchgate.net/profile/Wei_Lu77) &sdot; [Google Scholar](https://scholar.google.com/citations?user=q8gtz8AAAAAJ) &sdot; <a href="https://orcid.org/0000-0002-9703-2871" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:middle;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="vertical-align:middle;width:1em;margin-right:.2em;" alt="ORCID iD icon">0000-0002-9703-2871</a>
+* Social: [知乎](https://zhihu.com/people/luwei14) &sdot; [GitHub](https://github.com/luwei14) &sdot; [Twitter](https://twitter.com/VerusLoo)
+* Blog: [GeoInsights](http://geoinsights.xyz)

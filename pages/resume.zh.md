@@ -13,17 +13,28 @@
 * 荣誉
   * 武汉大学优秀毕业生，2012年
 * 学术竞赛
-  * 全国大学生数学建模竞赛，国家二等奖，2010年
-  * 中国大学生数学竞赛，湖北赛区三等奖，2009年
+  * 全国大学生数学建模竞赛，国家二等奖（5%），2010年
+  * 中国大学生数学竞赛，湖北赛区三等奖（25%），2009年
 * 奖学金
+  * 协同创新中心研究生奖学金, 2015年
   * 研究生优秀新生奖学金，2012年
   * 武汉大学乙等奖学金，2010年
   * 国家励志奖学金，2009年
   * 武汉大学甲等奖学金，2009年
 
 ## 出版物
-[1] **Wei Lu**,Tinghua Ai, Xiang Zhang and Yakun He. (2017). *An Interactive Web Mapping Visualization of Urban Air Quality Monitoring Data of China*. Atmosphere, 8(8), 148; [doi:10.3390/atmos8080148](http://dx.doi.org/10.3390/atmos8080148)<br/>
-[2] 杨敏, 艾廷华, **卢威**, 成晓强, & 周启. (2015). *自发地理信息兴趣点数据在线综合与多尺度可视化方法*. 测绘学报, 44(2), 228-234.<br/>
+### Cartography and Visualization
+[1] **Wei Lu**,Tinghua Ai, Xiang Zhang and Yakun He. (2017). *An Interactive Web Mapping Visualization of Urban Air Quality Monitoring Data of China*[J]. Atmosphere, 8(8), 148; [doi:10.3390/atmos8080148](http://dx.doi.org/10.3390/atmos8080148)<br/>
+[2] 杨敏, 艾廷华, **卢威**, 成晓强, & 周启. (2015). *自发地理信息兴趣点数据在线综合与多尺度可视化方法*[J]. 测绘学报, 44(2), 228-234.<br/>
+
+### Geographic Infromation Science
+[1] 艾廷华, **卢威**, 杨敏. (2012). *基于Bezier曲线的GIS线目标的多粒度表达*[C]. 第七届全国地图学与地理信息系统大会论文集.
+
+### Education
+[1] 刘潇, **卢威**, 何建华, 蔡忠亮. *地理学科研究生课程学习满意度调查及分析*[J]. 高等理科教育. 2016(6), 101-105.<br/>
+[2] 刘潇, 蔡忠亮, **卢威**, 何建华, 费腾. *欧洲地理学研究生课程体系分析及借鉴*[J]. 地理空间信息. 2017(12), 105-107.
+## 外语能力
+* English: TOFEL iBT 96; GRE:321+3
 
 ## 项目工作
 
