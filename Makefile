@@ -12,7 +12,7 @@ deploy: output static pages home
 	cd deploy &&  git add . && git commit -m "update site:`date`" && git push origin master
 
 server: output static pages home
-	cd deploy && python -m SimpleHTTPServer
+	cd deploy && python2 -m SimpleHTTPServer
 
 output:
 	$(MKDIR_P) $(DEPLOY_DIR)/$(PAGES_DIR)
