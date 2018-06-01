@@ -24,18 +24,22 @@
   * 武汉大学甲等奖学金，2009年
 
 ## 出版物
-### 地图学与地理信息可视化
+&bull; **期刊论文**
+
+&diams; **地图学与地理信息可视化** <br/>
 [1] **Wei Lu**,Tinghua Ai, Xiang Zhang and Yakun He. (2017). *An Interactive Web Mapping Visualization of Urban Air Quality Monitoring Data of China*[J]. Atmosphere, 8(8), 148. [doi:10.3390/atmos8080148](http://dx.doi.org/10.3390/atmos8080148)<br/>
 [2] 杨敏, 艾廷华, **卢威**, 成晓强, & 周启. (2015). *自发地理信息兴趣点数据在线综合与多尺度可视化方法*[J]. 测绘学报, 44(2), 228-234.<br/>
 
-### 地理信息工程与科学
+&diams; **地理信息工程与科学** <br/>
 [1] Wei Yang, Tinghua Ai, **Wei Lu**. (2018)	*A Method for Extracting Road Boundary Information from Crowdsourcing Vehicle GPS Trajectories*[J]. Sensors 2018, 18, 1261. [doi:10.3390/s18041261](https://doi.org/10.3390/s18041261).<br/>
 
-### 地理学教育
+&diams; **地理学教育** <br/>
 [1] 刘潇, **卢威**, 何建华, 蔡忠亮. *地理学科研究生课程学习满意度调查及分析*[J]. 高等理科教育. 2016(6), 101-105.<br/>
 [2] 刘潇, 蔡忠亮, **卢威**, 何建华, 费腾. *欧洲地理学研究生课程体系分析及借鉴*[J]. 地理空间信息. 2017(12), 105-107.
-## 外语水平
-* English: TOFEL iBT 96; GRE:321+3
+
+&bull; **会议论文** <br/>
+[1] **Wei Lu** and Tinghua Ai. *Center Point of Simple Area Feature Based on Triangulation Skeleton Graph*. GIScience 2018 Proceedings NO.59. DOI:10.4230/LIPIcs.GIScience.2018.59. <br/>
+[2] **Wei Lu**, Wei Yang, and Tinghua Ai. *Evaluating Non-Motorized Transport Popularity of Urban Roads by Sports GPS Tracks*. CPGIS2018 Proceedings NO.357. arXiv preprint arXiv:1805.09601 (2018). <br/>
 
 ## 相关项目
 * 软件登记 
@@ -52,7 +56,10 @@
 [3] 2015年10月， **环境监控信息多维可视化**，测绘科学与技术博士生论坛
 ## 专业服务
 * 辅助指导
-  * Faisal Shehzad（Master）题目：Automated Generalization of Roads and Buildings in Urban Map Morphology
+  * Faisal Shehzad（Master）题目：Automated Generalization of Roads and Buildings in Urban Map Representation
+
+## 外语水平
+* English: TOFEL iBT 96; GRE:321+3
 
 ## 个人信息
 个人爱好阅读、足球、骑行和跑步，曾多次参加学院学校足球比赛并获得奖项，曾独自单日骑行200公里，曾参加北京、武汉全程马拉松赛事，个人最好成绩4小时11分。
